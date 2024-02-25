@@ -7,9 +7,7 @@ this repo merged metallic& roughness components with normal map, simplified the 
 
 this is not the final solutin for mobile pbr materials, just a test for customizing pbr materials, might be a good reference for someone who want to do similar thing.
 
-[![Watch the video](https://github.com/jinsek/bevy_mobile_pbr/blob/main/docs/Screenrecorder-2024-02-25-16-51.mp4)](https://github.com/jinsek/bevy_mobile_pbr/blob/main/docs/Screenrecorder-2024-02-25-16-51.mp4)
-
-
+![Watch the video](https://github.com/jinsek/bevy_mobile_pbr/blob/main/docs/Screenrecorder-2024-02-25-16-51.mp4)
 # usage
 
 install rust & bevy
